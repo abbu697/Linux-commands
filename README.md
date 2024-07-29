@@ -9,35 +9,17 @@ there are dfferent linux command for terminal. they help in naviagation, modify 
 
 ###Pressed command 
 
-#cd          frequent
+cd          frequent
 
-#Ls        frequent
+Ls        frequent
 
-#Pwd    occasional	
+Pwd    occasional	
 
-#Cp    occasional
+CP  occasional
 
 
- #importing the required module
-import matplotlib.pyplot as plt
- 
-# x axis values
-x = ['cd','ls','pwd','cp']
-# corresponding y axis values
-y = ['frequent','frequent','frequent', 'occasional']
- 
-# plotting the points 
-plt.plot(x, y)
- 
-# naming the x axis
-plt.xlabel('commands')
-# naming the y axis
-plt.ylabel('use')
- 
-# giving a title to my graph
-plt.title('commands on linux')
- 
-# function to show the plot
-plt.show()
+![image](https://github.com/user-attachments/assets/5fa0695e-4718-4e15-8e8e-1ec652ce491c)
 
-in this plot there is the command which are recently pressed on my system. they are on the plot. there wuld be more plots for ananlysis.
+
+
+
